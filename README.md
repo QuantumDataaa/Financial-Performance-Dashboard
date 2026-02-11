@@ -1,5 +1,4 @@
 # Transforming Financial Data into Interactive Insights with Power BI
-interactive financial dashboard built in Power BI visualizing sales and profit trends
 
 I’m excited to showcase my latest financial dashboard, designed to provide a seamless data exploration experience. This project focuses on tracking global sales and profitability performance.
 
