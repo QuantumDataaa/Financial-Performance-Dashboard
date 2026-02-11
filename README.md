@@ -2,7 +2,7 @@
 
 I’m excited to showcase my latest financial dashboard, designed to provide a seamless data exploration experience. This project focuses on tracking global sales and profitability performance.
 
-![Financial Dashboard Preview](raport_finansowy.png)
+![image alt](https://github.com/QuantumDataaa/Financial-Performance-Dashboard/blob/main/raport_finansowy.PNG?raw=true)
 
 Highlights of the interactivity:
 
