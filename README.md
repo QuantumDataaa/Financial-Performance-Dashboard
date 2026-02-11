@@ -2,6 +2,8 @@
 
 I’m excited to showcase my latest financial dashboard, designed to provide a seamless data exploration experience. This project focuses on tracking global sales and profitability performance.
 
+![Financial Dashboard Preview](raport_finansowy.png)
+
 Highlights of the interactivity:
 
 -Dynamic Date Control: An easy-to-use date slider for quick period-over-period analysis.
